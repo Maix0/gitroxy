@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["gitroxy-db", "gitroxy-web", "gitroxy-sh"]
